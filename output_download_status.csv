@@ -1,0 +1,185 @@
+census_subdivision_id,province_id,municipality_name,type,province,status,downloaded,found,years,needs_reparse,notes,last_updated,page_url
+5941005,59,100 Mile House,District,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 21:14:52,https://www.100milehouse.com/government-bylaws/reports-documents
+5909052,59,Abbotsford,City,British Columbia,OK,16,16,15,NO,,2025-12-15 23:03:00,https://www.abbotsford.ca/city-hall/finance
+BC_RD_01,59,Alberni-Clayoquot,Regional District,British Columbia,OK,11,21,11,NO,,2025-12-15 21:14:52,https://www.acrd.bc.ca/financial-statements
+5943008,59,Alert Bay,Village,British Columbia,OK,14,17,14,NO,,2025-12-15 21:14:53,https://alertbay.civicweb.net/filepro/documents/124/
+5915038,59,Anmore,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:14:54,https://anmore.com/village-hall/reports-plans/
+5937028,59,Armstrong,City,British Columbia,OK,19,27,21,NO,,2025-12-15 21:14:56,https://armstrong.civicweb.net/filepro/documents/30662/
+5933019,59,Ashcroft,Village,British Columbia,OK,10,10,10,NO,,2025-12-15 21:14:58,https://ashcroftbc.ca/governance/reports-plans-documents/reports/
+5933074,59,Barriere,District,British Columbia,OK,2,2,2,YES,Low year count,2025-12-15 21:14:59,https://www.barriere.ca/p/finance
+5915036,59,Belcarra,Village,British Columbia,OK,1,6,1,YES,Low year count,2025-12-15 21:15:00,https://www.burnaby.ca/our-city/financial-and-annual-reports
+5915062,59,Bowen Island,Island Municipality,British Columbia,OK,11,11,11,NO,,2025-12-15 21:15:01,https://bowenislandmunicipality.ca/our-government/departments/finance/financial-reports/
+BC_RD_02,59,Bulkley-Nechako,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:02,https://www.rdbn.bc.ca/departments/finance/reports
+5915025,59,Burnaby,City,British Columbia,OK,1,6,1,YES,Low year count,2025-12-15 21:15:03,https://www.burnaby.ca/our-city/financial-and-annual-reports
+5951022,59,Burns Lake,Village,British Columbia,OK,8,13,8,NO,,2025-12-15 21:15:04,https://www.burnslake.ca/local-government/admin-finance
+5933024,59,Cache Creek,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:04,https://cachecreek.ca/reports
+5924034,59,Campbell River,City,British Columbia,OK,14,23,14,NO,,2025-12-15 21:15:04,https://www.campbellriver.ca/financial-plans-and-reports
+5901043,59,Canal Flats,Village,British Columbia,OK,3,8,3,YES,Low year count,2025-12-15 21:15:05,https://canalflats.civicweb.net/filepro/documents/2266/
+BC_RD_03,59,Capital,Regional District,British Columbia,OK,7,23,7,NO,,2025-12-15 21:15:07,https://www.crd.ca/government-administration/financial-plans-reports
+BC_RD_04,59,Cariboo,Regional District,British Columbia,OK,5,13,5,NO,,2025-12-15 21:15:08,https://www.cariboord.ca/regional-government/budget-and-finances/financial-statements/
+5903045,59,Castlegar,City,British Columbia,OK,3,6,3,YES,Low year count,2025-12-15 21:15:08,https://castlegar.ca/government/reports-plans-publications/annual-reports/
+BC_RD_05,59,Central Coast,Regional District,British Columbia,OK,19,46,19,NO,,2025-12-15 21:15:09,https://www.ccrd.ca/governance/finance
+BC_RD_06,59,Central Kootenay,Regional District,British Columbia,OK,8,16,8,NO,,2025-12-15 21:15:09,https://www.rdck.ca/finance/plans-statements-and-sofi-reports/
+BC_RD_07,59,Central Okanagan,Regional District,British Columbia,OK,4,5,2,YES,Low year count,2025-12-15 21:15:10,https://www.sd23.bc.ca/financialreports
+5917015,59,Central Saanich,District,British Columbia,OK,7,23,7,NO,,2025-12-15 21:15:12,https://www.crd.ca/government-administration/financial-plans-reports
+5933054,59,Chase,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:12,https://chasebc.ca/reports
+5955010,59,Chetwynd,District,British Columbia,OK,14,22,14,NO,,2025-12-15 21:15:13,https://www.gochetwynd.com/municipal-office/documents-and-publications/
+5909020,59,Chilliwack,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:20,https://www.chilliwack.com/main/page.cfm?id=2968
+5933067,59,Clearwater,District,British Columbia,OK,17,17,17,NO,,2025-12-15 21:15:21,https://districtofclearwater.civicweb.net/filepro/documents/73944/
+5933028,59,Clinton,Village,British Columbia,OK,5,12,5,NO,,2025-12-15 21:15:24,https://village.clinton.bc.ca/local-government/village-reports-plans/financial-reports/
+5937010,59,Coldstream,District,British Columbia,OK,4,5,5,NO,,2025-12-15 21:15:27,https://www.coldstream.ca/reports-publications
+BC_RD_08,59,Columbia Shuswap,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:27,https://www.csrd.bc.ca/414/Financial-Plans-Reports
+5917041,59,Colwood,City,British Columbia,OK,11,14,11,NO,,2025-12-15 21:15:28,https://www.colwood.ca/local-government/financial-plans-reports
+5926005,59,Comox,Town,British Columbia,OK,4,4,4,YES,Low year count,2025-12-15 21:15:28,https://www.comox.ca/financialstatements
+BC_RD_09,59,Comox Valley,Regional District,British Columbia,OK,4,5,4,YES,Low year count,2025-12-15 21:15:29,https://www.comoxvalleyrd.ca/about/finance/financial-statements
+5915034,59,Coquitlam,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:29,https://www.coquitlam.ca/Archive.aspx?AMID=37
+5926010,59,Courtenay,City,British Columbia,OK,13,13,13,NO,,2025-12-15 21:15:30,https://www.courtenay.ca/city-hall/corporate-information/annual-reports
+BC_RD_10,59,Cowichan Valley,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:30,https://www.cvrd.ca/114/Financial-Statements
+5901022,59,Cranbrook,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:31,https://cranbrook.ca/our-city/city-departments/finance/annual-reports
+5903004,59,Creston,Town,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 21:15:33,https://www.creston.ca/annual-report
+5926014,59,Cumberland,Village,British Columbia,OK,12,13,13,NO,,2025-12-15 21:15:33,https://cumberland.ca/annual-report/
+5955014,59,Dawson Creek,City,British Columbia,OK,20,20,20,NO,,2025-12-15 21:15:34,https://dawsoncreek.civicweb.net/filepro/documents/133231/
+5915011,59,Delta,District,British Columbia,OK,8,9,8,NO,,2025-12-15 21:15:35,https://www.delta.ca/city-hall/municipal-information/financial-information
+5919012,59,Duncan,City,British Columbia,OK,8,17,8,NO,,2025-12-15 21:15:35,https://duncan.ca/city-hall/mayor-council/reports-and-publications/
+BC_RD_11,59,East Kootenay,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:37,https://www.rdek.bc.ca/departments/finance/
+5901003,59,Elkford,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:47,https://www.elkford.ca/sites/default/files/2023-06/2022%20Draft%20Annual%20Report%20%28for%20Web%29.pdf
+5937033,59,Enderby,City,British Columbia,OK,3,3,3,YES,Low year count,2025-12-15 21:15:48,https://www.cityofenderby.com/category/city-hall-2/administration-and-finance/
+5917040,59,Esquimalt,Township,British Columbia,OK,18,18,18,NO,,2025-12-15 21:15:49,https://www.esquimalt.ca/government-bylaws/reports-publications/annual-reports
+5901012,59,Fernie,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:50,https://fernie.civicweb.net/filepro/documents/456/
+5951013,59,Fort St. James,District,British Columbia,OK,7,7,7,NO,,2025-12-15 21:15:50,https://www.fortstjames.ca/government/municipal-reports
+5955034,59,Fort St. John,City,British Columbia,OK,7,7,7,NO,,2025-12-15 21:15:51,https://www.fortstjohn.ca/local-government/budget-and-finance/annual-reports
+5951009,59,Fraser Lake,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:51,https://www.fraserlake.ca/municipal-hall/reports-and-publications
+BC_RD_12,59,Fraser Valley,Regional District,British Columbia,OK,3,6,3,YES,Low year count,2025-12-15 21:15:52,https://www.fvrd.ca/EN/main/government/financial-reporting.html
+BC_RD_13,59,Fraser-Fort George,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:52,https://www.rdffg.ca/reports
+5905005,59,Fruitvale,Village,British Columbia,OK,11,21,11,NO,,2025-12-15 21:15:54,https://fruitvale.ca/services/reports-publications/
+5929005,59,Gibsons,Town,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:55,https://gibsons.ca/town-hall/documents-and-publications/
+5924025,59,Gold River,Village,British Columbia,OK,10,10,10,NO,,2025-12-15 21:15:55,https://goldriver.ca/document-category/annual-report/
+5939007,59,Golden,Town,British Columbia,OK,15,17,15,NO,,2025-12-15 21:15:56,https://www.golden.ca/town-hall/community-planning/annual-report
+5905032,59,Grand Forks,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:56,https://www.grandforks.ca/financial-administration-department/
+5951032,59,Granisle,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:56,https://villageofgranisle.ca/annual-report/
+BC_RD_14,59,Greater Vancouver,Regional District,British Columbia,OK,5,9,5,NO,,2025-12-15 21:15:57,https://metrovancouver.org/about-us/budgets-and-financial-plans
+5905042,59,Greenwood,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:15:57,https://na.com
+5909027,59,Harrison Hot Springs,Village,British Columbia,OK,0,5,5,NO,,2025-12-15 21:15:58,https://www.harrisonhotsprings.ca/village-office/plans-reports-strategies
+5949022,59,Hazelton,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:00,https://hazelton.ca/village-office/annual-reports/
+5917049,59,Highlands,District,British Columbia,OK,20,21,21,NO,,2025-12-15 21:16:01,https://www.highlands.bc.ca/local-government/annual-reports
+5909009,59,Hope,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:02,https://hope.ca/p/finance
+5951034,59,Houston,District,British Columbia,OK,6,13,7,NO,,2025-12-15 21:16:03,https://www.houston.ca/financial_statements_page
+5955025,59,Hudson's Hope,District,British Columbia,OK,6,8,6,NO,,2025-12-15 21:16:04,https://hudsonshope.ca/district-office/annual-report/
+5901039,59,Invermere,District,British Columbia,OK,19,19,19,NO,,2025-12-15 21:16:05,https://invermere.civicweb.net/filepro/documents/9116/
+5901048,59,Jumbo Glacier,Mountain Resort Municipality,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:05,https://na.com
+5933042,59,Kamloops,City,British Columbia,OK,6,7,6,NO,,2025-12-15 21:16:06,https://www.kamloops.ca/city-hall/governance-finance/annual-reports
+5903023,59,Kaslo,Village,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 21:16:07,https://kaslo.ca/p/bylaws-reports
+5935010,59,Kelowna,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:07,https://issuu.com/cityofkelowna/stacks/baded0f70f6340349452fe92891ccc45
+5909032,59,Kent,District,British Columbia,OK,4,4,4,YES,Low year count,2025-12-15 21:16:08,https://www.kentbc.ca/en/district-hall/Financial_Plans_and_Reports.aspx
+5907009,59,Keremeos,Village,British Columbia,OK,6,6,6,NO,,2025-12-15 21:16:09,https://keremeos.civicweb.net/filepro/documents/134/
+5901028,59,Kimberley,City,British Columbia,OK,21,21,21,NO,,2025-12-15 21:16:10,https://kimberley.civicweb.net/filepro/documents/57030/
+5949005,59,Kitimat,District,British Columbia,OK,13,16,13,NO,,2025-12-15 21:16:11,https://www.kitimat.ca/en/municipal-hall/reports-and-plans.aspx
+BC_RD_15,59,Kitimat-Stikine,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:11,https://www.rdks.bc.ca/government/public_reports
+BC_RD_16,59,Kootenay Boundary,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:11,https://divisionsbc.ca/kootenay-boundary/your-division/annual-reports
+5919021,59,Ladysmith,Town,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:12,https://www.ladysmith.ca/city-hall/reports-publications
+5935016,59,Lake Country,District,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 21:16:13,https://www.lakecountry.bc.ca/government/document-library
+5919016,59,Lake Cowichan,Town,British Columbia,OK,5,13,5,NO,,2025-12-15 21:16:13,https://www.town.lakecowichan.bc.ca/finance.php
+5917044,59,Langford,City,British Columbia,OK,5,26,5,NO,,2025-12-15 21:16:19,https://langford.ca/?s=Annual+Reports&filters=webpages&filters=city-documents
+5915002,59,Langley,City,British Columbia,FAIL,6,0,0,YES,No annual reports found,2025-12-15 22:50:23,https://www.langleycity.ca/city-hall/reports-plans-strategies
+5921008,59,Lantzville,District,British Columbia,OK,22,65,22,NO,,2025-12-15 21:16:21,https://www.lantzville.ca/cms.asp?wpID=485
+5931026,59,Lillooet,District,British Columbia,OK,7,7,7,NO,,2025-12-15 21:16:22,https://lillooet.civicweb.net/filepro/documents/34564/
+5915065,59,Lions Bay,Village,British Columbia,OK,14,33,14,NO,,2025-12-15 21:16:22,https://www.lionsbay.ca/services/finance/financial-reports
+5933035,59,Logan Lake,District,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 21:16:23,https://loganlake.ca/public-notices/public-notice-2024-annual-report/
+5937005,59,Lumby,Village,British Columbia,OK,15,26,14,NO,,2025-12-15 21:16:33,https://lumby.civicweb.net/filepro/documents/469/
+5933015,59,Lytton,Village,British Columbia,OK,11,18,11,NO,,2025-12-15 21:16:34,https://www.lytton.ca/local-government/reports-plans
+5953033,59,Mackenzie,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:36,https://districtofmackenzie.ca/?s=Annual+Reports
+5915075,59,Maple Ridge,City,British Columbia,OK,24,24,24,NO,,2025-12-15 21:16:36,https://www.mapleridge.ca/your-government/reports-publications/annual-report
+5947023,59,Masset,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:37,http://massetbc.com/village-office/news/2020-annual-report
+5953012,59,McBride,Village,British Columbia,OK,17,17,17,NO,,2025-12-15 21:16:38,https://mcbride.civicweb.net/filepro/documents/7367/
+5933006,59,Merritt,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:41,https://www.merritt.ca/?s=ANNUAL+REPORT
+5917042,59,Metchosin,District,British Columbia,OK,2,3,2,YES,Low year count,2025-12-15 21:16:41,https://www.metchosin.ca/council/annual-report
+5905037,59,Midway,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:44,https://midwaybc.ca/?s=annual+report
+5909056,59,Mission,District,British Columbia,OK,12,14,12,NO,,2025-12-15 21:16:45,https://www.mission.ca/council-government/budget-finance/financial-reporting
+5905009,59,Montrose,Village,British Columbia,OK,11,24,11,NO,,2025-12-15 21:16:46,https://www.montrose.ca/document-category/annual-reports/
+BC_RD_17,59,Mount Waddington,Regional District,British Columbia,OK,14,17,14,NO,,2025-12-15 21:16:46,https://www.rdmw.bc.ca/regional-services/finance/rdmw-annual-financial-statements
+5903050,59,Nakusp,Village,British Columbia,OK,6,12,6,NO,,2025-12-15 21:16:47,https://www.nakusp.com/municipal-services/finance-department/financial-reports
+BC_RD_18,59,Nanaimo,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:47,https://rdn.bc.ca/financial-reports
+5903015,59,Nelson,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:16:48,https://www.nelson.ca/Archive.aspx?AMID=38
+5903032,59,New Denver,Village,British Columbia,OK,6,8,6,NO,,2025-12-15 21:17:01,https://newdenver.ca/village-business/reports-studies-planning-documents/
+5949024,59,New Hazelton,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:17:01,https://hazelton.ca/village-office/annual-reports/
+5915029,59,New Westminster,City,British Columbia,OK,5,5,5,NO,,2025-12-15 21:17:23,https://www.newwestcity.ca/city_hall/finance-taxes-and-budgets/financial-reporting/articles/244.php
+BC_RD_19,59,North Coast (formerly Skeena-Queen Charlotte),Regional District,British Columbia,OK,19,20,19,NO,,2025-12-15 21:17:51,https://www.ncrdbc.com/governance/corporate-finance/statement-financial-information-sofi
+5919008,59,North Cowichan,District,British Columbia,OK,12,17,12,NO,,2025-12-15 21:18:02,https://www.northcowichan.ca/municipal-hall/finances/financial-reports
+BC_RD_20,59,North Okanagan,Regional District,British Columbia,OK,5,10,5,NO,,2025-12-15 21:18:22,https://www.rdno.ca/rdno-services/financial-services/financial-reporting
+5917005,59,North Saanich,District,British Columbia,OK,6,18,6,NO,,2025-12-15 21:19:39,https://northsaanich.ca/local-government/corporate-annual-reports/
+5915051,59,North Vancouver,City,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 22:53:44,https://www.cnv.org/City-Hall/Finances/Annual-Municipal-Report
+5959007,59,Northern Rockies,Regional Municipality,British Columbia,OK,11,11,11,NO,,2025-12-15 21:20:51,https://nr.civicweb.net/filepro/documents/69358/
+5917030,59,Oak Bay,District,British Columbia,OK,2,12,2,YES,Low year count,2025-12-15 21:20:54,https://www.oakbay.ca/council-administration/plans-reports/reports/
+BC_RD_21,59,Okanagan-Similkameen,Regional District,British Columbia,OK,5,10,5,NO,,2025-12-15 21:21:02,https://www.rdos.bc.ca/finance/budget-and-financial-statements/
+5907014,59,Oliver,Town,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:21:03,https://www.oliver.ca/
+5907005,59,Osoyoos,Town,British Columbia,OK,5,12,6,NO,,2025-12-15 21:21:08,https://www.osoyoos.ca/council/financial-statements
+5921018,59,Parksville,City,British Columbia,OK,21,21,21,NO,,2025-12-15 21:22:30,https://parksville.civicweb.net/filepro/documents/66491/
+BC_RD_22,59,Peace River,Regional District,British Columbia,OK,4,8,4,YES,Low year count,2025-12-15 21:22:45,https://www.prrd.bc.ca/our-government/budgets-and-finances/financial-documents/
+5935018,59,Peachland,District,British Columbia,OK,3,3,3,YES,Low year count,2025-12-15 21:22:57,https://www.peachland.ca/departments/finance/annual-report
+5931012,59,Pemberton,Village,British Columbia,OK,5,11,5,NO,,2025-12-15 21:23:50,https://www.pemberton.ca/government/budget-finance/financial-statements-reports
+5907041,59,Penticton,City,British Columbia,OK,21,34,21,NO,,2025-12-15 21:25:13,https://www.penticton.ca/city-hall/reports-plans/annual-reports
+5915070,59,Pitt Meadows,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:25:14,https://www.pittmeadows.ca/city-hall/publications-and-reports/annual-reports
+5923008,59,Port Alberni,City,British Columbia,OK,5,7,5,NO,,2025-12-15 21:25:23,https://www.portalberni.ca/financial-statements
+5943017,59,Port Alice,Village,British Columbia,OK,6,11,6,NO,,2025-12-15 21:25:29,https://portalice.ca/town-hall/municipal-documents/
+5947030,59,Port Clements,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:25:30,https://portclements.ca/municipal-government/municipal-documents/
+5915039,59,Port Coquitlam,City,British Columbia,OK,5,5,5,NO,,2025-12-15 21:25:42,https://www.portcoquitlam.ca/our-government/reports-plans-publications/annual-report
+5947007,59,Port Edward,District,British Columbia,OK,2,2,2,YES,Low year count,2025-12-15 21:25:45,https://www.portedward.ca/municipal-hall/reports
+5943023,59,Port Hardy,District,British Columbia,OK,0,3,2,YES,Low year count,2025-12-15 21:25:52,https://porthardy.ca/municipal-hall/financial-services/annual-report-info/
+5943012,59,Port McNeill,Town,British Columbia,OK,5,8,5,NO,,2025-12-15 21:26:26,https://portmcneill.ca/town-hall/reports/
+5915043,59,Port Moody,City,British Columbia,OK,5,6,5,NO,,2025-12-15 21:26:34,https://www.portmoody.ca/city-government/plans-reports-and-publications/
+5955005,59,Pouce Coupe,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:26:34,https://poucecoupe.ca/government/finance/
+5927008,59,Powell River,City,British Columbia,OK,7,14,6,NO,,2025-12-15 22:53:56,https://powellriver.civicweb.net/filepro/documents/280/
+5953023,59,Prince George,City,British Columbia,OK,3,3,3,YES,Low year count,2025-12-15 21:27:23,https://www.princegeorge.ca/city-hall/annual-report-strategic-plan-corporate-plan
+5947012,59,Prince Rupert,City,British Columbia,OK,9,33,9,NO,,2025-12-15 21:27:53,https://www.princerupert.ca/city-hall/city-financials
+5907024,59,Princeton,Town,British Columbia,OK,15,15,15,NO,,2025-12-15 21:28:35,https://princeton.civicweb.net/filepro/documents/167/
+5921023,59,Qualicum Beach,Town,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:28:38,https://qualicumbeach.com/document-library?folder_path=Financial%20Information/Annual%20Reports
+5947026,59,Queen Charlotte,Village,British Columbia,OK,18,20,18,NO,,2025-12-15 21:29:50,https://daajinggiids.civicweb.net/filepro/documents/4504/
+5941013,59,Quesnel,City,British Columbia,OK,7,7,7,NO,,2025-12-15 21:30:01,https://www.quesnel.ca/city-hall/finance/financial-statements
+5901040,59,Radium Hot Springs,Village,British Columbia,OK,4,12,4,YES,Low year count,2025-12-15 21:30:09,https://radiumhotsprings.civicweb.net/filepro/documents/4158/
+5939019,59,Revelstoke,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:30:10,https://revelstoke.ca/86/Financial-Documents
+5915015,59,Richmond,City,British Columbia,OK,4,8,4,YES,Low year count,2025-12-15 21:30:15,https://www.richmond.ca/city-hall/finance/reporting/reports.htm
+5905023,59,Rossland,City,British Columbia,OK,15,15,15,NO,,2025-12-15 21:32:17,https://rossland.civicweb.net/filepro/documents/3615/
+5917021,59,Saanich,District,British Columbia,OK,5,9,5,NO,,2025-12-15 21:32:28,https://www.saanich.ca/EN/main/local-government/departments/finance-department/financial-reports.html
+5903011,59,Salmo,Village,British Columbia,OK,11,21,11,NO,,2025-12-15 21:32:59,https://salmo.ca/council/reports-links/
+5939032,59,Salmon Arm,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:33:00,https://www.salmonarm.ca/Archive.aspx?AMID=45
+5924039,59,Sayward,Village,British Columbia,OK,15,27,15,NO,,2025-12-15 21:33:24,https://www.sayward.ca/government-bylaws/reports-financial-statements
+5929011,59,Sechelt,District,British Columbia,OK,7,7,7,NO,,2025-12-15 22:54:04,https://www.sechelt.ca/en/our-government/annual-reports.aspx
+5939045,59,Sicamous,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:33:52,https://sicamous.civicweb.net/filepro/documents/13896/
+5917010,59,Sidney,Town,British Columbia,OK,1,1,1,YES,Low year count,2025-12-15 21:33:58,https://www.sidney.ca/government/financial-accountability/annual-report/
+5903027,59,Silverton,Village,British Columbia,OK,1,2,1,YES,Low year count,2025-12-15 21:34:02,https://silverton.civicweb.net/filepro/documents/108/
+5903019,59,Slocan,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:34:03,http://www.slocancity.com/wp-content/uploads/2023/05/Annual-Report-2022.pdf
+5951043,59,Smithers,Town,British Columbia,OK,12,12,12,NO,,2025-12-15 21:34:44,https://www.smithers.ca/town-hall/policies/annual-report
+5917052,59,Sooke,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:34:45,https://www.sooke.ca/municipal-hall/budget-and-finance/financial-plans-and-reports/
+5937024,59,Spallumcheen,Township,British Columbia,OK,8,10,8,NO,,2025-12-15 21:35:02,https://spallumcheen.civicweb.net/filepro/documents/7032/
+5901006,59,Sparwood,District,British Columbia,OK,2,3,2,YES,Low year count,2025-12-15 21:35:12,https://sparwood.civicweb.net/filepro/documents/48923/
+5931006,59,Squamish,District,British Columbia,OK,17,32,17,NO,,2025-12-15 21:35:48,https://squamish.ca/government-and-administration/financial-services/budget-financial-statements-and-annual-reports/
+BC_RD_24,59,Squamish-Lillooet,Regional District,British Columbia,OK,4,4,4,YES,Low year count,2025-12-15 21:35:54,https://www.slrd.bc.ca/services/financial-services/financial-plans-statements
+5949032,59,Stewart,District,British Columbia,OK,14,21,14,NO,,2025-12-15 21:36:23,https://districtofstewart.com/district-hall/district-publications/reports
+BC_RD_25,59,Strathcona,Regional District,British Columbia,OK,9,9,9,NO,,2025-12-15 21:36:30,https://srd.ca/government/finance/financial-reporting/
+5907035,59,Summerland,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:36:30,https://www.summerland.ca/your-city-hall/reports-studies
+5933050,59,Sun Peaks,Mountain Resort Municipality,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:36:31,https://sunpeaksmunicipality.ca/municipal-hall/finance-and-taxes/financial-plans-and-reports
+BC_RD_26,59,Sunshine Coast,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:36:31,https://www.scrd.ca/annual-reports/
+5915004,59,Surrey,City,British Columbia,OK,5,20,5,NO,,2025-12-15 21:36:41,https://www.surrey.ca/city-government/city-departments/finance/financial-documents
+5924030,59,Tahsis,Village,British Columbia,OK,10,21,10,NO,,2025-12-15 21:36:46,https://villageoftahsis.com/finance-and-other-reports/
+5955030,59,Taylor,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:36:51,https://districtoftaylor.com/wp-content/uploads/2022/05/District-of-Taylor-2021-Annual-Report-and-Consolidated-Financial-Statements.pdf
+5951038,59,Telkwa,Village,British Columbia,OK,6,10,6,NO,,2025-12-15 21:37:37,https://www.telkwa.ca/reports-and-budgets
+5949011,59,Terrace,City,British Columbia,OK,14,21,14,NO,,2025-12-15 21:38:20,https://www.terrace.ca/city-services/finance-taxation
+BC_RD_27,59,Thompson-Nicola,Regional District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:38:21,https://www.tnrd.ca/services/budget-finance/financial-reports/
+5923025,59,Tofino,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:38:22,https://tofino.ca/your-government/reports-plans/
+5905014,59,Trail,City,British Columbia,OK,4,4,4,YES,Low year count,2025-12-15 21:38:57,https://trail.ca/en/inside-city-hall/reports-and-publications.aspx
+5955003,59,Tumbler Ridge,District,British Columbia,OK,3,5,3,YES,Low year count,2025-12-15 21:39:14,https://www.districtoftumblerridge.ca/p/reports
+5923019,59,Ucluelet,District,British Columbia,OK,7,13,7,NO,,2025-12-15 21:39:18,https://ucluelet.ca/government/finance/financial-reports/
+5953007,59,Valemount,Village,British Columbia,OK,8,16,10,NO,,2025-12-15 21:39:32,https://valemount.ca/village-office/documents-publications/financial-reports/
+5915022,59,Vancouver,City,British Columbia,OK,25,25,25,NO,,2025-12-15 21:39:42,https://vancouver.ca/your-government/financial-reports-and-information.aspx
+5951007,59,Vanderhoof,District,British Columbia,OK,5,5,5,NO,,2025-12-15 21:40:18,https://vanderhoof.civicweb.net/filepro/documents/75810/
+5937014,59,Vernon,City,British Columbia,OK,8,16,8,NO,,2025-12-15 21:40:45,https://www.vernon.ca/government-services/departments/financial-services/financial-statements-annual-reports
+5917034,59,Victoria,City,British Columbia,OK,6,6,6,NO,,2025-12-15 21:40:56,https://www.victoria.ca/city-government/strategic-plan/annual-report
+5917047,59,View Royal,Town,British Columbia,OK,16,22,16,NO,,2025-12-15 21:42:05,https://www.viewroyal.ca/EN/main/town/documents/reportsplans.html
+5905018,59,Warfield,Village,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:42:06,https://warfield.ca/village-office/finance/
+5941025,59,Wells,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:42:07,https://www.wells.ca/district-wells/financial-reports
+5935029,59,West Kelowna,City,British Columbia,OK,16,31,16,NO,,2025-12-15 21:43:04,https://www.westkelownacity.ca/en/our-community/annual-report-and-financial-statements.aspx
+5915055,59,West Vancouver,District,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:43:04,https://westvancouver.ca/government-administration/strategies-reports/reports/annual-reports
+5931020,59,Whistler,Resort Municipality,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:43:04,https://www.whistler.ca/mayor-council/strategies-and-plans/financial-plans-and-reports/
+5915007,59,White Rock,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:43:04,https://www.whiterockcity.ca/1117/Reports-Plans
+5941009,59,Williams Lake,City,British Columbia,FAIL,0,0,0,YES,No annual reports found,2025-12-15 21:43:05,https://www.williamslake.ca/Archive.aspx?AMID=41
+5924029,59,Zeballos,Village,British Columbia,OK,12,13,12,NO,,2025-12-15 21:43:41,https://www.zeballos.com/home/municipal-services/reports-and-plans/

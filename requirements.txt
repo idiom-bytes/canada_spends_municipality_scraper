@@ -1,0 +1,19 @@
+# Pydantic AI - Agent framework
+pydantic-ai[openai]>=0.2.0
+
+# Web scraping and HTTP
+httpx>=0.27.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# PDF handling
+# (for downloading PDFs)
+
+# Data handling
+pandas>=2.0.0
+
+# Environment and config
+python-dotenv>=1.0.0
+
+# Search (DuckDuckGo - no API key needed)
+duckduckgo-search>=6.0.0
